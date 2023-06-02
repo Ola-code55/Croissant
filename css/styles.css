@@ -1,11 +1,13 @@
 body{
-    background: #F5A8EE;
+    background: #fa939a;
     display: block;
     margin: 8px;
 }
 h1{
     text-align: center;
+    color: whitesmoke;
 }
+
 p{
     text-align: center;
 }
@@ -15,12 +17,11 @@ p{
     display: block;
     margin: 30px auto;
 }
+
 footer{
     text-align: center;
-
 }
-
-footer a{
-margin: 0 10px;
-color: #0000;
+footer a {
+    margin: 0 10px;
+    color: white;
 }
